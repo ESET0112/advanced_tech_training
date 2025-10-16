@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Advance Training\\day3\\CollegeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\controllers\\collageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\controllers\\collageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\data\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\data\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\model\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\model\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\migrations\\20251016063400_hello1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\migrations\\20251016063400_hello1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\migrations\\20251015092308_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\migrations\\20251015092308_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\migrations\\20251015072137_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\migrations\\20251015072137_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\model\\collagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\collagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\mylogger\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\mylogger\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\mylogger\\logtofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\mylogger\\logtofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\mylogger\\logtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\mylogger\\logtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\model\\validations\\spacecheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\validations\\spacecheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|c:\\advance training\\day3\\collegeapp\\collegeapp\\collegeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{773DB15D-83FF-445E-92DC-6B31B6065805}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\collegeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Data\\Student.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Student.cs",
+              "RelativeToolTip": "CollegeApp\\Data\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:31:47.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollageApp.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Controllers\\CollageApp.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Controllers\\CollageApp.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Controllers\\CollageApp.cs",
+              "RelativeToolTip": "CollegeApp\\Controllers\\CollageApp.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAtwO8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:57:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentConfig.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Config\\StudentConfig.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Data\\Config\\StudentConfig.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Config\\StudentConfig.cs",
+              "RelativeToolTip": "CollegeApp\\Data\\Config\\StudentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:06:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollageDBContext.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\CollageDBContext.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Data\\CollageDBContext.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\CollageDBContext.cs",
+              "RelativeToolTip": "CollegeApp\\Data\\CollageDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:27:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studentDTO.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\studentDTO.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Model\\studentDTO.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\studentDTO.cs",
+              "RelativeToolTip": "CollegeApp\\Model\\studentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:25:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student1.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\Student1.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Model\\Student1.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\Student1.cs",
+              "RelativeToolTip": "CollegeApp\\Model\\Student1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:09:41.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Model\\CourseDTO.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\CourseDTO.cs",
+              "RelativeToolTip": "CollegeApp\\Model\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:28:51.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Course.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Data\\Course.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Data\\Course.cs",
+              "RelativeToolTip": "CollegeApp\\Data\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:20:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251016063400_Hello1.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251016063400_Hello1.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Migrations\\20251016063400_Hello1.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251016063400_Hello1.cs",
+              "RelativeToolTip": "CollegeApp\\Migrations\\20251016063400_Hello1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:34:00.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251015092308_Hello.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251015092308_Hello.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Migrations\\20251015092308_Hello.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251015092308_Hello.cs",
+              "RelativeToolTip": "CollegeApp\\Migrations\\20251015092308_Hello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:23:08.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251015072137_initialize.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251015072137_initialize.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Migrations\\20251015072137_initialize.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Migrations\\20251015072137_initialize.cs",
+              "RelativeToolTip": "CollegeApp\\Migrations\\20251015072137_initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:21:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Program.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Program.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Program.cs",
+              "RelativeToolTip": "CollegeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:45:39.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "collageRepository.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\collageRepository.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Model\\collageRepository.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\collageRepository.cs",
+              "RelativeToolTip": "CollegeApp\\Model\\collageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:53:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CollegeApp\\appsettings.json",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\appsettings.json",
+              "RelativeToolTip": "CollegeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T06:50:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogtoFile.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\LogtoFile.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Mylogger\\LogtoFile.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\LogtoFile.cs",
+              "RelativeToolTip": "CollegeApp\\Mylogger\\LogtoFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:26:15.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpaceCheckAttribute.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
+              "RelativeToolTip": "CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:26:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMylogger.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\IMylogger.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Mylogger\\IMylogger.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\IMylogger.cs",
+              "RelativeToolTip": "CollegeApp\\Mylogger\\IMylogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:27:30.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogtoDb.cs",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\LogtoDb.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Mylogger\\LogtoDb.cs",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\Mylogger\\LogtoDb.cs",
+              "RelativeToolTip": "CollegeApp\\Mylogger\\LogtoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:28:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollegeApp.csproj",
+              "DocumentMoniker": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\CollegeApp.csproj",
+              "RelativeDocumentMoniker": "CollegeApp\\CollegeApp.csproj",
+              "ToolTip": "C:\\Advance Training\\day3\\CollegeApp\\CollegeApp\\CollegeApp.csproj",
+              "RelativeToolTip": "CollegeApp\\CollegeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T09:47:11.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
