@@ -8,6 +8,8 @@ import Reset_Password from './pages/reset_password_page/Reset_Password';
 import Home from './pages/home/Home';
 import Layout from './components/Layout/Layout';
 import BillTable from './pages/bills_payments/Bills';
+import Alerts from './pages/alerts/Alerts';
+import Profile from './pages/profile/Profile';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false)
@@ -39,8 +41,8 @@ function App() {
             <Routes>
               <Route path="/Home" element={<Home />} />
               <Route path="/Bills" element={<BillTable/>} />
-              <Route path="/settings" element={<div>Settings Page</div>} />
-              <Route path="/reports" element={<div>Reports Page</div>} />
+              <Route path="/Alerts" element={<Alerts/>}/>
+              <Route path="/Profile" element={<Profile/>}/>
               <Route path="*" element={<Home />} />
             </Routes>
           </Layout>

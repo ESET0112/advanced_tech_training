@@ -6,7 +6,9 @@ export default function Sidebar() {
 
   const menuItems = [
     { path: '/Home', label: 'Dashboard'},
-    { path: '/Bills', label: 'Bills & Payments'}
+    { path: '/Bills', label: 'Bills & Payments'},
+    { path: '/Alerts', label: 'Alerts & Notifications'},
+    { path: '/Profile', label: 'Profile & Settings'}
     
   ]
 

@@ -1,11 +1,12 @@
 import React from 'react'
 import Button from '../../components/button/Button'
 import LineCharts from '../../chart/LineChart'
+import { FaRegClock } from "react-icons/fa6";
 
 export default function Home() {
   return (
     <div>
-      
+
       <div className='flex items-center justify-between'>
         <div>
           <div className='text-2xl font-bold mb-4'> Welcome , XYZ </div>
@@ -19,23 +20,26 @@ export default function Home() {
         </div>
       </div>
 
-      
-      <div className='flex items-center justify-between mt-10 ml-10 mr-10 mb-10'>
-        <div className='text-xl font-bold border-2 border-gray-500 p-8 rounded-xl w-48 h-32 flex items-center justify-center ml-8'>
-          256kWh
+
+      <div className='flex items-center justify-between m-5'>
+        <div className='text-xl font-bold border-2 border-gray-500 p-8 rounded-xl w-56 h-40 flex flex-col items-center justify-center ml-8'>
+          <FaRegClock className="mb-2" />
+          <div>256kWh</div>
         </div>
-        <div className='text-xl font-bold border-2 border-gray-500 p-8 rounded-xl w-48 h-32 flex items-center justify-center ml-8'>
-          1203 Due on 12 Oct
+        <div className='text-xl font-bold border-2 border-gray-500 p-4 rounded-xl w-56 h-40 flex flex-col items-center justify-center ml-8'>
+          <FaRegClock className="mb-2" />
+          <div>1203 Due on 12 Oct</div>
         </div>
-        <div className='text-xl font-bold border-2 border-gray-500 p-8 rounded-xl w-48 h-32 flex items-center justify-center ml-8'>
-          120 Pending
+        <div className='text-xl font-bold border-2 border-gray-500 p-4 rounded-xl w-56 h-40 flex flex-col items-center justify-center ml-8'>
+          <FaRegClock className="mb-2" />
+          <div>Pending</div>
         </div>
       </div>
 
-      
-      <div className='flex items-center justify-between mt-10 ml-10 mr-10 mb-10'>
-        <div className='text-xl font-bold border-2 border-gray-500 p-8 rounded-xl w-48 h-32 flex items-center justify-center ml-8'>
-          Paid 1200 on 10 Sep
+      <div className='flex items-center justify-between m-5'>
+        <div className='text-xl font-bold border-2 border-gray-500 p-4 rounded-xl w-56 h-40 flex flex-col items-center justify-center ml-8'>
+          <FaRegClock className="mb-2" />
+          <div>Paid 1200 on 10 Sep</div>
         </div>
       </div>
 
