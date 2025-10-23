@@ -196,11 +196,10 @@ namespace CollegeApp.Controllers
             return Ok(new { message = "Course deleted successfully", success = true });
         }
     }
+
+
+
 }
-
-
-
-
 
 
 

@@ -1,0 +1,9 @@
+﻿namespace LibraryManagementAPI.Model
+{
+    public class BookDTO
+    {
+        public string Title { get; set; }
+        public string Genre { get; set; }
+        public int AuthorId { get; set; }
+    }
+}
