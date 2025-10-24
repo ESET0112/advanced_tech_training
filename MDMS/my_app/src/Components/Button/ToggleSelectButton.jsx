@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-const ToggleButton = () => {
+const ToggleSelectButton = () => {
   const [isOn, setIsOn] = useState(false);
 
   return (
@@ -12,7 +12,7 @@ const ToggleButton = () => {
         relative inline-flex h-6 w-11 items-center rounded-full
         transition-colors duration-300 ease-in-out
         border-2 border-black
-        ${isOn ? 'bg-green-500' : 'bg-gray-300'}
+        ${isOn ? 'bg-violet-500' : 'bg-gray-300'}
       `}
     >
       <span
@@ -26,4 +26,4 @@ const ToggleButton = () => {
   );
 };
 
-export default ToggleButton
+export default ToggleSelectButton

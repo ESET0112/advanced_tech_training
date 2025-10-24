@@ -8,10 +8,10 @@ const data = [
     { month: "may", sales: 5400 },
 ];
 
-function LineCharts() {
+function LineCharts({ width = 800, height = 300 }) {
     return (
         <>
-            <LineChart width={500} height={300} data={data}>
+            <LineChart width={width} height={height} data={data}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="month" />
                 <YAxis />

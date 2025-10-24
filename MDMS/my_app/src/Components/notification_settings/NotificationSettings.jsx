@@ -1,5 +1,5 @@
 import React from 'react'
-import ToggleButton from '../button/ToggleButton'
+import ToggleSelectButton from '../button/ToggleSelectButton'
 import Button from '../button/Button'
 
 export default function NotificationSettings() {
@@ -12,15 +12,15 @@ export default function NotificationSettings() {
                 <div className='flex flex-col'>
                     <div className='flex justify-between items-center w-80 mb-6'>
                         <div className="text-lg">Email</div>
-                        <div><ToggleButton /></div>
+                        <div><ToggleSelectButton /></div>
                     </div>
                     <div className='flex justify-between items-center w-80 mb-6'>
                         <div className="text-lg">SMS</div>
-                        <div><ToggleButton /></div>
+                        <div><ToggleSelectButton /></div>
                     </div>
                     <div className='flex justify-between items-center w-80 mb-6'>
                         <div className="text-lg">Push</div>
-                        <div><ToggleButton /></div>
+                        <div><ToggleSelectButton /></div>
                     </div>
                 </div>
                 <div className="w-full max-w-md">

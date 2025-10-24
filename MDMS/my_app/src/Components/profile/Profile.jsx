@@ -1,9 +1,8 @@
 import React, { useState } from 'react'; 
 import { GoPencil } from "react-icons/go";
 import Button from '../button/Button';
-import Input from '../input_form/Input';
+import Input2 from '../input_form/Input2'; // Changed to Input2
 import { FaRegUser } from 'react-icons/fa';
-
 
 export default function Profile() {
     const [formData, setFormData] = useState({
@@ -38,36 +37,39 @@ export default function Profile() {
 
             
             <div className="w-full max-w-md"> 
-                <Input
+                <Input2
+                    label="Name"
                     type="text" 
                     name="name"
-                    placeholder="Name"
+                    placeholder=""
                     value={formData.name}
                     onChange={handleChange}
-                    className="mb-4 w-[60%]"
+                    className="w-[60%]"
                 />
 
-                <Input
+                <Input2
+                    label="Email"
                     type="email"
                     name="email"
-                    placeholder="Email"
+                    placeholder=""
                     value={formData.email}
                     onChange={handleChange}
-                    className="mb-4 w-[60%]" 
+                    className="w-[60%]" 
                 />
                 
-                <Input
+                <Input2
+                    label="Mobile Number"
                     type="tel" 
                     name="mobile"
-                    placeholder="Mobile No."
+                    placeholder=""
                     value={formData.mobile}
                     onChange={handleChange}
-                    className="mb-6 w-[60%]" 
+                    className="w-[60%]" 
                 />
 
                 <Button
                     //onClick={handleSave}
-                    className='border-2 bg-black text-white rounded-2xl px-12 py-2 w-[60%] hover:bg-gray-800 transition-colors ' // Improved padding
+                    className='border-2 bg-black text-white rounded-2xl px-12 py-2 w-[60%] hover:bg-gray-800 transition-colors mt-4' // Added margin-top
                 >
                     Save & Continue
                 </Button>

@@ -1,5 +1,6 @@
 import React from 'react'
-import Tab from '../../components/tab/Tab'
+
+import Tab from '../../../components/tab/Tab'
 
 export default function Profile() {
     return (
@@ -9,7 +10,7 @@ export default function Profile() {
 
             </div>
             <div className='mt-8'>
-                <Tab />
+                <Tab/>
             </div>
 
         </div>

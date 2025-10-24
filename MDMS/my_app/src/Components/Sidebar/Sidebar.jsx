@@ -8,13 +8,13 @@ export default function Sidebar() {
     { path: '/Home', label: 'Dashboard'},
     { path: '/Bills', label: 'Bills & Payments'},
     { path: '/Alerts', label: 'Alerts & Notifications'},
-    { path: '/Profile', label: 'Profile & Settings'}
-    
+    { path: '/Profile', label: 'Profile & Settings'},
+    { path: '/DashBoard', label: 'DashBoard'},
+    { path: '/Settings', label: 'Settings & Notifications'}
   ]
 
   return (
-    <div className="p-4">
-     
+    <div className="p-4 ">
       <nav>
         <ul className="space-y-2">
           {menuItems.map((item) => (
@@ -24,7 +24,7 @@ export default function Sidebar() {
                 className={`flex items-center px-4 py-3 rounded-lg transition duration-200 ${
                   location.pathname === item.path
                     ? 'bg-blue-600 text-white'
-                    : 'text-gray-700 hover:bg-gray-200'
+                    : 'text-gray-700 hover:bg-gray-200 dark:text-gray-300 dark:hover:bg-gray-700'
                 }`}
               >
                 <span className="mr-3">{item.icon}</span>

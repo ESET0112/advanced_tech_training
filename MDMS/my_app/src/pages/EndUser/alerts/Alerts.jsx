@@ -1,5 +1,5 @@
 import React from 'react'
-import NotifyCard from '../../components/notification_card/NotifyCard'
+import NotifyCard from '../../../components/notification_card/NotifyCard'
 
 export default function Alerts() {
     return (

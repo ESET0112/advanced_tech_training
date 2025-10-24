@@ -11,9 +11,9 @@ export default function Layout({ children }) {
         <LoggedNavbar />
       </div>
 
-      <div className="h-[90%] w-full flex">
+      <div className="h-full w-full flex">
        
-        <div className="w-1/5 bg-gray-100 border-r border-gray-300">
+        <div className="w-1/5 bg-gray-100 border-r border-gray-300 dark:bg-gray-800">
           <Sidebar />
         </div>
 
