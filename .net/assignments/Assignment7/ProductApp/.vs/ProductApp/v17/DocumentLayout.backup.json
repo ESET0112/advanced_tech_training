@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\data\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\data\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\controllers\\inventoryapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\controllers\\inventoryapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\data\\repository\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\data\\repository\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|c:\\advance dotnet assignments\\assignment6\\productapp\\productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94A692B6-54E2-4489-8861-556B99B5687A}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryApp.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Controllers\\InventoryApp.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Controllers\\InventoryApp.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Controllers\\InventoryApp.cs",
+              "RelativeToolTip": "ProductApp\\Controllers\\InventoryApp.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:02:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\Repository\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Data\\Repository\\InventoryRepository.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\Repository\\InventoryRepository.cs",
+              "RelativeToolTip": "ProductApp\\Data\\Repository\\InventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:50:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApp\\appsettings.json",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\appsettings.json",
+              "RelativeToolTip": "ProductApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T04:45:34.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "ProductApp\\Data\\InventoryContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:37:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:15:59.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IinventoryRepository.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\Repository\\IinventoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Data\\Repository\\IinventoryRepository.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\Data\\Repository\\IinventoryRepository.cs",
+              "RelativeToolTip": "ProductApp\\Data\\Repository\\IinventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:50:44.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductApp.csproj",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\ProductApp.csproj",
+              "RelativeDocumentMoniker": "ProductApp\\ProductApp.csproj",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment6\\ProductApp\\ProductApp\\ProductApp.csproj",
+              "RelativeToolTip": "ProductApp\\ProductApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T04:18:10.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
