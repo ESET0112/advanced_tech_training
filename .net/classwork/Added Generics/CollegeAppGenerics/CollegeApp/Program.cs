@@ -20,6 +20,17 @@ namespace CollegeApp
                 options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionDB"));
             });
             builder.Services.AddControllers().AddNewtonsoftJson();
+
+            //Add CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowUI", policy =>
+                {
+                    policy.WithOrigins("http://localhost:5173") // your UI project's URL
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -40,6 +51,7 @@ namespace CollegeApp
 
             app.UseHttpsRedirection();
 
+            app.UseCors("AllowUI");
             app.UseAuthorization();
 
 

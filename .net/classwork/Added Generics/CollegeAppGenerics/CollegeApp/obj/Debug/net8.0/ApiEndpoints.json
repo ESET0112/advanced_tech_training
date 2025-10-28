@@ -1,123 +1,302 @@
 [
   {
     "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "Create",
-    "RelativePath": "api/CollageApp/{entityType}/create",
+    "Method": "GetCourseById",
+    "RelativePath": "api/CollageApp/courses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Data.Course",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/CollageApp/courses/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CollegeApp.Data.Course, CollegeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "CreateCourse",
+    "RelativePath": "api/CollageApp/courses/create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "entityType",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "entity",
-        "Type": "System.Object",
+        "Name": "course",
+        "Type": "CollegeApp.Data.Course",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "Delete",
-    "RelativePath": "api/CollageApp/{entityType}/delete/{id}",
+    "Method": "DeleteCourse",
+    "RelativePath": "api/CollageApp/courses/delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "entityType",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "GetById",
-    "RelativePath": "api/CollageApp/{entityType}/id/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
+    "ReturnTypes": [
       {
-        "Name": "entityType",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       }
-    ],
-    "ReturnTypes": []
+    ]
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "GetByName",
-    "RelativePath": "api/CollageApp/{entityType}/name/{name}",
+    "Method": "GetCourseByName",
+    "RelativePath": "api/CollageApp/courses/name/{name}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
-      {
-        "Name": "entityType",
-        "Type": "System.String",
-        "IsRequired": true
-      },
       {
         "Name": "name",
         "Type": "System.String",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Data.Course",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "Update",
-    "RelativePath": "api/CollageApp/{entityType}/update",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/CollageApp/courses/update",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "entityType",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "entity",
-        "Type": "System.Object",
+        "Name": "course",
+        "Type": "CollegeApp.Data.Course",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollageApp",
-    "Method": "GetAll",
-    "RelativePath": "api/CollageApp/all/{entityType}",
+    "Method": "GetStudentById",
+    "RelativePath": "api/CollageApp/students/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "entityType",
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Data.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/CollageApp/students/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CollegeApp.Data.Student, CollegeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "CreateStudent",
+    "RelativePath": "api/CollageApp/students/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "CollegeApp.Data.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/CollageApp/students/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "GetStudentByName",
+    "RelativePath": "api/CollageApp/students/name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
         "Type": "System.String",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Data.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollageApp",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/CollageApp/students/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "CollegeApp.Data.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
