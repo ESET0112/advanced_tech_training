@@ -95,6 +95,32 @@
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollegeApp",
+    "Method": "GetCourseByName",
+    "RelativePath": "api/CollegeApp/Courses/Name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Models.Course",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollegeApp",
     "Method": "UpdateEmployee",
     "RelativePath": "api/CollegeApp/Courses/Update/{id}",
     "HttpMethod": "PUT",
@@ -191,6 +217,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CollegeApp.Controllers.CollegeApp",
+    "Method": "GetStudentByName",
+    "RelativePath": "api/CollegeApp/Students/Name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CollegeApp.Models.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "CollegeApp.Controllers.CollegeApp",

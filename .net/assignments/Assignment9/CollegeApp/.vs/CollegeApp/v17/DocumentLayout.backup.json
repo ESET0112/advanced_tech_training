@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\controllers\\collegeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\controllers\\collegeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\data\\repository\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\repository\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\data\\repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\controllers\\collegeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\controllers\\collegeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\data\\repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\repository\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|c:\\advance dotnet assignments\\assignment8\\collegeapp\\collegeapp\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F4057A-8ED6-4217-92C7-345080A2BAA9}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CollegeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,47 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseDTO.cs",
-              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CourseDTO.cs",
-              "RelativeDocumentMoniker": "CollegeApp\\Models\\CourseDTO.cs",
-              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CourseDTO.cs",
-              "RelativeToolTip": "CollegeApp\\Models\\CourseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:18:06.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "CollegeApp\\Models\\StudentDTO.cs",
-              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\StudentDTO.cs",
-              "RelativeToolTip": "CollegeApp\\Models\\StudentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:15:52.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CollegeContext.cs",
-              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CollegeContext.cs",
-              "RelativeDocumentMoniker": "CollegeApp\\Models\\CollegeContext.cs",
-              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CollegeContext.cs",
-              "RelativeToolTip": "CollegeApp\\Models\\CollegeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:12:38.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\appsettings.json",
               "RelativeDocumentMoniker": "CollegeApp\\appsettings.json",
@@ -104,14 +68,14 @@
               "RelativeDocumentMoniker": "CollegeApp\\Data\\Repository\\CollegeRepository.cs",
               "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Data\\Repository\\CollegeRepository.cs",
               "RelativeToolTip": "CollegeApp\\Data\\Repository\\CollegeRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:20:38.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Controllers\\AuthController.cs",
@@ -123,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Program.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Program.cs",
@@ -131,32 +95,69 @@
               "RelativeToolTip": "CollegeApp\\Program.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAQwB4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:17:05.733Z",
+              "WhenOpened": "2025-10-28T10:17:05.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollegeApp.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Controllers\\CollegeApp.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Controllers\\CollegeApp.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Controllers\\CollegeApp.cs*",
+              "RelativeToolTip": "CollegeApp\\Controllers\\CollegeApp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:49:19.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ICollegeRepository.cs",
               "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Data\\Repository\\ICollegeRepository.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Data\\Repository\\ICollegeRepository.cs",
               "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Data\\Repository\\ICollegeRepository.cs",
               "RelativeToolTip": "CollegeApp\\Data\\Repository\\ICollegeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:20:12.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CollegeApp.cs",
-              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Controllers\\CollegeApp.cs",
-              "RelativeDocumentMoniker": "CollegeApp\\Controllers\\CollegeApp.cs",
-              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Controllers\\CollegeApp.cs",
-              "RelativeToolTip": "CollegeApp\\Controllers\\CollegeApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Models\\StudentDTO.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\StudentDTO.cs",
+              "RelativeToolTip": "CollegeApp\\Models\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:49:19.115Z"
+              "WhenOpened": "2025-10-28T09:15:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollegeContext.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CollegeContext.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Models\\CollegeContext.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CollegeContext.cs",
+              "RelativeToolTip": "CollegeApp\\Models\\CollegeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:12:38.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "CollegeApp\\Models\\CourseDTO.cs",
+              "ToolTip": "C:\\Advance dotnet assignments\\Assignment8\\CollegeApp\\CollegeApp\\Models\\CourseDTO.cs",
+              "RelativeToolTip": "CollegeApp\\Models\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:18:06.39Z"
             }
           ]
         }

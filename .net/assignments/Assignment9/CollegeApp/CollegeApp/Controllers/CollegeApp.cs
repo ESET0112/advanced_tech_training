@@ -9,7 +9,7 @@ namespace CollegeApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class CollegeApp : ControllerBase
     {
         private readonly ICollegeRepository<Course> _courseRepository;
@@ -44,6 +44,24 @@ namespace CollegeApp.Controllers
             if (course == null)
             {
                 return NotFound($"Course with ID {id} not found");
+            }
+
+            return Ok(course);
+        }
+
+        [HttpGet("Courses/Name/{name}")]
+        public async Task<ActionResult<Course>> GetCourseByName(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+            {
+                return BadRequest("Name cannot be empty");
+            }
+
+            var course = await _courseRepository.GetByName(name);
+
+            if (course == null)
+            {
+                return NotFound($"Course with name '{name}' not found");
             }
 
             return Ok(course);
@@ -131,6 +149,24 @@ namespace CollegeApp.Controllers
             if (student == null)
             {
                 return NotFound($"Student with ID {id} not found");
+            }
+
+            return Ok(student);
+        }
+
+        [HttpGet("Students/Name/{name}")]
+        public async Task<ActionResult<Student>> GetStudentByName(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+            {
+                return BadRequest("Name cannot be empty");
+            }
+
+            var student = await _studentRepository.GetByName(name);
+
+            if (student == null)
+            {
+                return NotFound($"Student with name '{name}' not found");
             }
 
             return Ok(student);

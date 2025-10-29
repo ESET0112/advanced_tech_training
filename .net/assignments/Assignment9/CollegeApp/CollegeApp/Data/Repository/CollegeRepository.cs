@@ -38,6 +38,27 @@ namespace CollegeApp.Data.Repository
             }
             return null;
         }
+        public async Task<T> GetByName(string name)
+        {
+            if (typeof(T) == typeof(Course))
+            {
+                var courses = await _dbcontext.Courses
+                       .Where(n => n.CourseName == name)
+                       .FirstOrDefaultAsync();
+
+                return (T)(object)courses;
+            }
+            else if (typeof(T) == typeof(Student))
+            {
+                var students = await _dbcontext.Students
+                       .Where(n => n.Name == name)
+                       .FirstOrDefaultAsync();
+
+                return (T)(object)students;
+            }
+
+            return null;
+        }
         public async Task AddAsync(T entity)
         {
             _dbset.Add(entity);

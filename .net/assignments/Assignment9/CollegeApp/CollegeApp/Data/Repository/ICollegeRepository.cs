@@ -6,6 +6,7 @@
 
         Task<T> GetByIdAsync(int id);
 
+        Task<T> GetByName(string name);
         Task AddAsync(T entity);    
         Task UpdateAsync(int id,T entity);
 
